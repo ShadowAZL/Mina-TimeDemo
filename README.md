@@ -1,0 +1,1 @@
+这是学习apache mina是自己写的Demo，android客户端向服务器请求时间，并显示
